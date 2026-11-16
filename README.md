@@ -23,3 +23,6 @@
 [Lernjournal David](Dokumentation\Lernjournal/David%20Burger/Lernjournal.md)
 
 [Lernjournal Tim K](Dokumentation\Lernjournal/Tim%20Kunz/Lernjournal.md)
+
+
+[Documentation](Dokumentation/documentation.md)
