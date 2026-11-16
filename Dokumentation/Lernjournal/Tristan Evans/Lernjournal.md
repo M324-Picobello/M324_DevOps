@@ -37,14 +37,14 @@ I even planned and led a Team meeting and the end of the morning, which even sur
 
 - **Maven setup:** How to configure a project with Maven so the whole team can build it the same way.
 - A `.gitignore` should be created **before** the first commit, so be more careful next time.
-- **Removing tracked files:** A folder that was already committed is not removed by just adding it to `.gitignore`. It has to be removed from Git's index with `git rm -r --cached .idea`.
+- **Removing tracked files:** A folder that was already committed is not removed by just adding it to `.gitignore`.
 - **Scope of a task:** Working only on what the current task asks for keeps the work focused.
 
 ### Problems and Solutions
 
 | Problem                                  | Cause                                         | Solution                                                        | Status |
 |------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------|--------|
-| The `.idea/` folder was committed to the repo | I forgot to create a `.gitignore` before the first commit | Creating a `.gitignore`, then remove the folder with `git rm -r --cached .idea` and commit | Open   |
+| The `.idea/` folder was committed to the repo | I forgot to create a `.gitignore` before the first commit | Creating a `.gitignore` | Open   |
 
 ```
 # .gitignore
