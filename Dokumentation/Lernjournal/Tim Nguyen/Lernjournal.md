@@ -14,3 +14,39 @@ Was ich komisch finde oder woran ich nie gedacht habe ist das ich bei meinem Kun
 
 ### Verbesserung / Ideen für Firma
 Ich werde mal Fragen was die Naming Convention von unseren Branches sind da die den Feature namen haben aber wir nicht wissen welche Userstorys da drin sind und warum wir nicht PBI dort drin haben, da man auch Testing direkt dortdrin machen kann.
+
+
+
+## 27.11.2026
+
+### Heutiges Thema
+DevOps Kultur 
+- CALMS
+- The Three Ways
+
+### Aktivitäten 
+Lesen T1
+
+### Gelerntes
+Um schnelle Deployments zu ermöglichen mussen alle Fehler Akzeptieren, dieser Aspekt hat mich überrascht da man in der Business Welt alles Perfekt haben will. 
+
+Grösse der Anderungen anpassen, lieber viele realeases deploments und klinere änderungen anstatt ein grosses über längere zeitraum da unvorhergesehene progbleme passieren können.
+
+
+Claude Chat
+
+
+
+
+### Parralelle
+Bei mir haben Personen die Unit test rausgenommen bei Deployments. Kommuniktion nicht vorhanden.
+
+### Verbesserung / Ideen für Firma 
+Möglichkeiten finden leute zu ermutigen kontinuerliche Verbesserungen zu bewirken.
+Zeitmessen für deployment zu prod und von kundenfeedback zu deployment. Kein Shamgefühl vor langsamen Fortschritt.
+
+
+Begriffe: gelernt
+Lead Time
+Dora-Metriken
+WIP-Limite, Work In Progress-Limite
