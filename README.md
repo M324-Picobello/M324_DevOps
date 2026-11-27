@@ -12,7 +12,7 @@
 
 [KANBAN Board](https://github.com/orgs/M324-Picobello/projects/1)
 
-[Zeitlogging](Dokumentation/Zeitplan/Zeitlogging.xlsx)
+[Zeitlogging](https://tbzedu.sharepoint.com/:x:/s/IT_AP23d_M324-Gruppe04/cQoIkrYiIg5PTonDf8Rw4tFJEgUBCokWoqje-AuHSI5L3r2Pkg)
 
 [Lernjournal Tristan](/Dokumentation/Lernjournal/Tristan%20Evans/Lernjournal.md)
 
