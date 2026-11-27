@@ -24,6 +24,7 @@ Die Ergebnisse aller Meetings werden in der [Meeting-Dokumentation](meeting_docu
 
 - **Product Backlog:** Alle GitHub Issues sind auf dem Kanban Board, nach Priorität sortiert.
 - **Sprint Backlog:** Die Issues, die im Sprint Planning für den aktuellen Sprint ausgewählt wurden.
+- **WIP-Limit:** Jede Person darf maximal 2 Issues gleichzeitig bearbeiten.
 - **Inkrement:** Der lauffähige Stand auf `main` am Ende des Sprints.
 
 ## Ablauf eines Tasks
