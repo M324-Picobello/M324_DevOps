@@ -64,7 +64,7 @@ target/
 ### Next Steps
 
 1. Create the `.gitignore` and remove `.idea/` from the repository
-2. Lead the team meeting at 11:20 → [Meeting notes](LINK)
+2. Lead the team meeting at 11:20
 3. Link all documents, the time log and the Lernjournal in the `Readme.md`
 4. Prepare the tool choice reasoning for the team discussion FG1 (week 2)
 
