@@ -10,7 +10,7 @@
 
 ## Andere Links
 
-[KANBAN Board](https://github.com/users/Timposter8107/projects/3/views/1)
+[KANBAN Board](https://github.com/orgs/M324-Picobello/projects/1)
 
 [Zeitlogging](Dokumentation\Zeitplan\Zeitlogging.xlsx)
 
